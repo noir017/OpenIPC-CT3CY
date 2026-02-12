@@ -23,6 +23,7 @@ jobs:
 
           # Sigmastar [I6B]
           - ssc335_lite
+          - ssc325_lite
 
     steps:
       - name: Checkout source
